@@ -15,5 +15,6 @@ module.exports = {
   },
   ignorePatterns: ['.eslintrc.js', '**/*.json'],
   rules: {
+    "new-cap": "off",
   },
 };
